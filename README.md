@@ -1,4 +1,4 @@
-# API-PHP
+# API-iOS
 
 SDK da plataforma de pagamento Apus. 
 * Language: Swift
